@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh Ghatora</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Java, Mysql, HTML, CSS, Jvascript**
 
