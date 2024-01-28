@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, Springboot, Mysql**
+- 💬 Ask me about **Java, Mysql, HTML, CSS, Jvascript**
 
 - 📫 How to reach me **Gurpreetsinghghatora1@gmail.com**
 
