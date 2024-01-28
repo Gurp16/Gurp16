@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh Ghatora</h1>
-<h3 align="center">A passionate Software Develepment</h3>
+<h3 align="center">A passionate Software Developer </h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
